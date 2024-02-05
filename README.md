@@ -2,7 +2,7 @@
 
 An application for ordering food that allows users to explore a variety of food items and add them to their shopping cart. Users can easily view and modify the quantity of items in their cart. Upon completing the selection, users will proceed to checkout and then be directed to a form where they can provide personal information for delivery.
 
-![Main](./main.png)
+
 ![Cart](./cart.png)
 ![Form](./form.png)
 
