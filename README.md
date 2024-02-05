@@ -28,7 +28,7 @@ An application for ordering food that allows users to explore a variety of food 
 
    ```bash
    npm install
-   ../backend
+   cd backend
    npm install
    ```
 
